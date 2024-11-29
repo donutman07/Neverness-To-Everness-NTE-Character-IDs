@@ -30,7 +30,7 @@
 | 031 | Palomino | Palomino
 | 032 | Aniela | Aniela |
 | 033 | Adler (Again) | Adler |
-| 034 | Ellie | ??? |
+| 034 | Ellie | Eri |
 | 035 | Adonis | Adonis |
 | 036 | Zankou | Zankou |
 | 037 | Male Protagonist | Male |
@@ -40,5 +40,5 @@
 | 041 | Exe | Exe |
 | 042 | Raven | Blackbird
 | 043 | Alphard (Again) | Alphard |
-| 044 | Ellie (Again) | ??? |
+| 044 | Ellie (Again) | Eri |
 | 045 | Adonis (Again) | Adonis |
