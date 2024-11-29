@@ -9,6 +9,7 @@
 | 008 | Skia | Skia |
 | 009 | Zero | Female |
 | 010 | Nanally | Nanally |
+| 012 | ??? | ??? |
 | 013 | Hotori | Jin |
 | 014 | Jiuyuan | Kuhara |
 | 015 | Adler | Adler |
