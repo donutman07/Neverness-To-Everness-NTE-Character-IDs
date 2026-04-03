@@ -42,3 +42,18 @@
 | 043 | Alphard (Again) | Alphard |
 | 044 | Ellie (Again) | Eri |
 | 045 | Adonis (Again) | Adonis |
+| 046 | Male Protagonist (Again) | Male |
+| 047 | | |
+| 048 | | |
+| 051 | Female Protagonist (Again) | Female |
+| 052 | Hotori (Again) | Jin |
+| 053 | Alphard (Again) | Alphard |
+| 054 | Dafodill | Dafodill |
+| 055 | Kuhara | Kuhara |
+| 056 | Bat | Bat | 
+| 057 | Akane Rin | Akane |
+| 058 | | |
+| 062 | | |
+| 065 | | |
+| 067 | | |
+| 073 | Xiao Zhi / Chiichan | Rabbit |
