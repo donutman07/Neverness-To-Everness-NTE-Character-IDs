@@ -27,7 +27,7 @@
 | 028 | Otro | Otro
 | 029 | Hotori (Again) | Jin |
 | 030 | Iskra | Iskra |
-| 031 | Palomino | Palomino
+| 031 | Palomino | Palomino |
 | 032 | Aniela | Aniela |
 | 033 | Adler (Again) | Adler |
 | 034 | Ellie | Eri |
@@ -49,11 +49,16 @@
 | 052 | Hotori (Again) | Jin |
 | 053 | Alphard (Again) | Alphard |
 | 054 | Dafodill | Dafodill |
-| 055 | Kuhara | Kuhara |
+| 055 | Jiuyuan | Kuhara |
 | 056 | Bat | Bat | 
 | 057 | Akane Rin | Akane |
 | 058 | | |
 | 062 | | |
 | 065 | | |
 | 067 | | |
-| 073 | Xiao Zhi / Chiichan | Rabbit |
+| 070 | Mitsuki | Misuki, Mitsuki |
+| 071 | Chaos | Chaos |
+| 072 | Linko | Radio |
+| 073 | Chiz / Xiao Zhi | Rabbit, Chiichan |
+| 075 | Iroi | Oneir, Oneiroi |
+| 076 | Shinku | Shinku |
