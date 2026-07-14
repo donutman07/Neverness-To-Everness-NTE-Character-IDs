@@ -2,6 +2,7 @@
 
 |  ID  | NAME | CODENAME |
 | :--: | :--: | :--: |
+| 001 | Mint | Mint |
 | 002 | Edgar | Edgar |
 | 003 | Sakiri | Sagiri |
 | 004 | Lacrimosa | Lacrimosa |
